@@ -5,6 +5,14 @@ __pycache__/
 
 # C extensions
 *.so
+# Adding config.py file
+config.py
+
+# Adding additional files
+API_practice.ipynb
+random_numbers.ipynb
+TraversingJSONS.ipynb
+WeatherPy2.ipynb
 
 # Distribution / packaging
 .Python
