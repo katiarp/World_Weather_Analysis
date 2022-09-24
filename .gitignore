@@ -11,7 +11,7 @@ config.py
 # Adding additional files
 API_practice.ipynb
 random_numbers.ipynb
-TraversingJSONS.ipynb
+Traversing JSONS.ipynb
 WeatherPy2.ipynb
 
 # Distribution / packaging
